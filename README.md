@@ -7,7 +7,7 @@
 - 🖥️Meu foco atualmente está em me tornar uma Dev. Back-end
 
 - 😄 Pronouns: ela/dela
-- 🌱 Estudando Java
+
 
 <div>
 
